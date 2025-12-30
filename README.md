@@ -21,8 +21,8 @@ A machine learning-based web application that classifies SMS or Email messages a
 
 Run these commands in your terminal to set up and start the project:
 
-```bash
 # 1. Clone the repo
+```bash
 git clone [https://github.com/codewithmittalhardik/spam.git](https://github.com/codewithmittalhardik/spam.git)
 cd spam
 ```
