@@ -40,11 +40,14 @@ pip install -r requirements.txt
 
 # 4. Run the App
 streamlit run app.py
+```
 
 ## 📂 Project Structure
+```text
 spam/
 ├── app.py              # Main Streamlit application file
 ├── model.pkl           # Pre-trained machine learning model
 ├── vectorizer.pkl      # Pre-trained TF-IDF/CountVectorizer
 ├── requirements.txt    # List of python dependencies
 └── README.md           # Project documentation
+```
